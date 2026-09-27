@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# state internal tooling opencode-swarm (db, lock, telemetry, bundled skills)
+.swarm/
+
+# file kunci sementara LibreOffice
+.~lock.*
+
+# berkas soal/task, tidak ikut repositori
+Special Task Programming.docx
+
+# keluaran program
+hasil*.jpg
+snapshot_*.jpg

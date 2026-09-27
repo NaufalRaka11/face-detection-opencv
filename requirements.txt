@@ -1,0 +1,6 @@
+# Task ini mewajibkan Haar Cascade (cv2.CascadeClassifier).
+# API tersebut dihapus pada OpenCV 5, jadi versinya dibatasi di bawah 5.
+opencv-python>=4.8,<5
+
+# Hanya untuk menjalankan test.
+pytest>=7.4
